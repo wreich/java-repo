@@ -1,0 +1,67 @@
+body {
+    
+}
+h1 {
+    color:#576d94;
+    font-family:Verdana, sans-serif;
+}
+p {
+    color:#4a4943;
+    font-size:18px;
+    font-family:Garamond, serif;
+}
+#haendlerbutton {
+    height:30px;
+    width:150px;
+    border:grey solid 2px;
+    background-color:silver;
+    border-radius:5px;
+    margin:auto;
+    text-align:center;
+	float:right;
+
+}
+#haendlerbutton:hover {
+    height:35px;
+    width:155px;
+    border:grey solid 2px;
+    background-color:silver;
+    border-radius:5px;
+    margin:auto;
+    text-align:center;
+	float:right;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+#suchen {
+    height:30px;
+    width:150px;
+    border:grey solid 2px;
+    background-color:silver;
+    border-radius:5px;
+    margin:auto;
+    text-align:center;
+	float:center;
+
+}
+#suchen:hover {
+    height:35px;
+    width:155px;
+    border:grey solid 2px;
+    background-color:silver;
+    border-radius:5px;
+    margin:auto;
+    text-align:center;
+	float:center;
+	font-weight: bold;
+	text-decoration: none;
+}
+a {
+    text-decoration:none;
+    color:black;
+}
+
+form {
+	text-align:center;
+}

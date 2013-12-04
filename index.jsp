@@ -13,6 +13,7 @@
 <h1><center>Startseite</h1>
 <br/><br/><br/><br/><br/>
 <div><a href="http://google.com">Haendlerlogin!</a></div>
+<br/><br/><br/><br/>
 <br/><br/>
 <form>
   <p>Bitte den Text: <input type="text" name="eingabe" value="<%= eingabe%>" />
